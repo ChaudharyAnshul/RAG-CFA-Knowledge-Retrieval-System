@@ -1,0 +1,3 @@
+[MongoDB]
+mongo_url = <url>
+db_name = <name>

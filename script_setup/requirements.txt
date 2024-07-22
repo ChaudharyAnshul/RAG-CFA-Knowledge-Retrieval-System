@@ -1,0 +1,12 @@
+selenium==4.19.0
+beautifulsoup4==4.12.3 
+bs4==0.0.2
+pymongo==4.6.3
+PyPDF2
+
+
+google-api-python-client
+functions-framework==3.*
+pymongo==4.6.3
+openai
+google-cloud-storage==2.16.0
