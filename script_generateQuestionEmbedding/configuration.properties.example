@@ -1,0 +1,4 @@
+[MongoDB]
+mongo_url = <value>
+db_name = <value>
+collection_name_data = <value>
