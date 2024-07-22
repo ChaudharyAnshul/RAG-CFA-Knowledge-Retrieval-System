@@ -1,0 +1,4 @@
+functions-framework==3.*
+openai==1.16.2
+pymongo==4.6.3
+pinecone-client==3.2.2
