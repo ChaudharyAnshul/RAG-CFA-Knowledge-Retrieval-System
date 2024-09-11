@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  streamlit-app:
+    build:
+      context: .
+    command: sh -c "streamlit run main.py"
+    ports:
+      - 8501:8501
+    volumes:
+      - .:/app
